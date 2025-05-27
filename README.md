@@ -1,4 +1,4 @@
-<p align="right"><a href="README.md">English</a> | Русский</p>
+<p align="right"><a href="README.md">Русский</p>
 
 ## Автоматическая сборка прошивки Padavan на серверах GitHub
 
